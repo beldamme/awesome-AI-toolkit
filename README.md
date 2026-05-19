@@ -466,6 +466,7 @@ Free online courses for learning AI. Segregated by level.
 | Elements of AI | Introduction to AI concepts for non-experts                                 | https://www.elementsofai.com/                    |
 | Introduction to AI (Coursera) | Basics of AI from IBM                                                      | https://www.coursera.org/learn/introduction-to-ai |
 | Google AI Essentials | Practical AI skills from Google                                            | https://grow.google/ai/                          |
+| AIHumanLove | Free AI courses for beginners covering tools, prompts, and practical AI applications | https://aihumanlove.com/courses |
 
 #### Advanced Courses
 | Course        | Description                                                                 | URL                                               |
